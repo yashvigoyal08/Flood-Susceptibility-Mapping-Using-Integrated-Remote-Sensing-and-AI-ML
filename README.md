@@ -1,0 +1,2 @@
+# Flood-Susceptibility-Mapping-Using-Integrated-Remote-Sensing-and-AI-ML
+A ten-year (2016–2025) Sentinel-1 flood record was combined with 13 terrain, hydrological, rainfall and vegetation factors to train Random Forest, XGBoost and LightGBM models for Paschim Medinipur, India. On spatially blocked tests, accuracy was 0.86–0.88 and ROC-AUC 0.94–0.95, supporting flood risk management and land-use planning.
